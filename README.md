@@ -1,4 +1,6 @@
-https://travis-ci.org/cyl19910101/react-app-travis.svg?branch=master
+[![Build Status](https://travis-ci.org/cyl19910101/react-app-travis.svg?branch=master)](https://travis-ci.org/cyl19910101/react-app-travis)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
